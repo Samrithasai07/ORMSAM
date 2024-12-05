@@ -52,7 +52,7 @@ class BankLoanAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 ![alt text](<Screenshot 2024-12-03 220117.png>)
-
+![alt text](<Screenshot 2024-12-05 141007.png>)
 
 
 ## RESULT
